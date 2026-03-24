@@ -110,4 +110,4 @@ end
 
 reaper.defer(RunUI)
 
--- Jagoda Jazownik XD
+-- Jagoda Jazownik XD WGA elomelo
